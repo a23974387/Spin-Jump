@@ -1,0 +1,18 @@
+h1 {
+  color: white;
+}
+p {
+  color: white;
+  font-size: 26px;
+}
+.parent {
+  display: flex;
+  /* 水平置中 */
+  justify-content: center;    
+  /* 垂直置中 */
+  align-content: center;      
+  flex-wrap: wrap;       
+}
+.text {
+
+}
